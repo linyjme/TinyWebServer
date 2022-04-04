@@ -18,10 +18,13 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\WebServer\webserver.cpp">
+    <ClCompile Include="..\..\WebServer\config.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\WebServer\config.cpp">
+    <ClCompile Include="server.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +32,7 @@
     <ClInclude Include="config.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="webserver.h">
+    <ClInclude Include="..\..\WebServer\http\http_conn.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

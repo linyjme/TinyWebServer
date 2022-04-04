@@ -1,0 +1,2 @@
+D:\dev\cpluspro\TinyWebServer\TinyWebServer\Debug\TinyWebServer.exe
+D:\dev\cpluspro\TinyWebServer\TinyWebServer\Debug\TinyWebServer.pdb
