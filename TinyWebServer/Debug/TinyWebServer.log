@@ -1,6 +1,2 @@
-﻿  client.cpp
-D:\dev\cpluspro\TinyWebServer\TinyWebServer\client.cpp(27,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  server.cpp
-D:\dev\cpluspro\TinyWebServer\TinyWebServer\server.cpp(55,51): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  正在生成代码...
+﻿  main.cpp
   TinyWebServer.vcxproj -> D:\dev\cpluspro\TinyWebServer\TinyWebServer\Debug\TinyWebServer.exe

@@ -143,13 +143,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\WebServer\config.cpp" />
-    <ClCompile Include="client.cpp" />
+    <ClCompile Include="http_conn.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="server.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\WebServer\http\http_conn.h" />
     <ClInclude Include="config.h" />
+    <ClInclude Include="http_conn.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
